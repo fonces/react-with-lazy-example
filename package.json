@@ -1,15 +1,15 @@
 {
-  "name": "react-with-lazy",
+  "name": "react-with-lazy-example",
   "version": "1.0.0",
   "private": true,
   "homepage": "http://fonces.github.io/react-with-lazy-example",
   "dependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-router": "^5.0.1",
-    "react-router-dom": "^5.0.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.0.1",
-    "react-with-lazy": "/Users/administrator/nrsd/git/react-with-lazy"
+    "react-with-lazy": "^0.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
