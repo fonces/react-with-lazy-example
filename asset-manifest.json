@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-with-lazy-example/static/css/main.34de6062.chunk.css",
-    "main.js": "/react-with-lazy-example/static/js/main.372e7bdc.chunk.js",
-    "main.js.map": "/react-with-lazy-example/static/js/main.372e7bdc.chunk.js.map",
+    "main.js": "/react-with-lazy-example/static/js/main.02251b38.chunk.js",
+    "main.js.map": "/react-with-lazy-example/static/js/main.02251b38.chunk.js.map",
     "runtime~main.js": "/react-with-lazy-example/static/js/runtime~main.2222d213.js",
     "runtime~main.js.map": "/react-with-lazy-example/static/js/runtime~main.2222d213.js.map",
-    "static/js/2.0ad380c3.chunk.js": "/react-with-lazy-example/static/js/2.0ad380c3.chunk.js",
-    "static/js/2.0ad380c3.chunk.js.map": "/react-with-lazy-example/static/js/2.0ad380c3.chunk.js.map",
+    "static/js/2.083e2c1f.chunk.js": "/react-with-lazy-example/static/js/2.083e2c1f.chunk.js",
+    "static/js/2.083e2c1f.chunk.js.map": "/react-with-lazy-example/static/js/2.083e2c1f.chunk.js.map",
     "index.html": "/react-with-lazy-example/index.html",
-    "precache-manifest.ae1ea38688d5a4486344115b7c907f47.js": "/react-with-lazy-example/precache-manifest.ae1ea38688d5a4486344115b7c907f47.js",
+    "precache-manifest.a7ca9d242f81e7ba30df066e45255efe.js": "/react-with-lazy-example/precache-manifest.a7ca9d242f81e7ba30df066e45255efe.js",
     "service-worker.js": "/react-with-lazy-example/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/react-with-lazy-example/static/css/main.34de6062.chunk.css.map"
   }
