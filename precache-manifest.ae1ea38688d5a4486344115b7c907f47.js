@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d7ebec757d35f8316420a74a90d750aa",
+    "revision": "3b26df0e4d19e6335fa5d79728aa415b",
     "url": "/react-with-lazy-example/index.html"
   },
   {
-    "revision": "666704d69a0d685b1ba2",
+    "revision": "25f5072dc2040f8dc193",
     "url": "/react-with-lazy-example/static/css/main.34de6062.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-with-lazy-example/static/js/2.0ad380c3.chunk.js"
   },
   {
-    "revision": "666704d69a0d685b1ba2",
-    "url": "/react-with-lazy-example/static/js/main.6a739b5c.chunk.js"
+    "revision": "25f5072dc2040f8dc193",
+    "url": "/react-with-lazy-example/static/js/main.372e7bdc.chunk.js"
   },
   {
     "revision": "90ed6e492d5430f8c607",
