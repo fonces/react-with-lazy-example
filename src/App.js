@@ -6,7 +6,9 @@ import Employee from './Employee'
 import Home from './Home'
 import Nav from './Nav'
 
-const history = createBrowserHistory()
+const history = createBrowserHistory({
+  basename: process.env.PUBLIC_URL
+})
 
 export default () => {
   return (
