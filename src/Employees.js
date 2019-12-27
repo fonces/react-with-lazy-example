@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 
 const Employees = ({ useLazy }) => {
   const employees = useLazy(() =>
-    fetch("http://dummy.restapiexample.com/api/v1/employees")
+    fetch("https://dummy.restapiexample.com/api/v1/employees")
       .then(res => res.json())
   );
 

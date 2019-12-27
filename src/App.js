@@ -14,7 +14,7 @@ export default () => {
       <Nav />
       <Switch>
         <React.Suspense fallback={<div>...loading</div>}>
-          <Route path="/" component={Home} exact={true}/>
+          <Route path="/" component={Home} />
           <Route path="/employees" component={Employees} exact={true}/>
           <Route path="/employee/:id" component={Employee} exact={true}/>
         </React.Suspense>

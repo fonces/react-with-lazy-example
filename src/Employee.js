@@ -7,7 +7,7 @@ const { useLazy, purge } = createUseLazy()
 const Employee = ({ match }) => {
   const id = match.params.id
   const employee = useLazy(() =>
-    fetch(`http://dummy.restapiexample.com/api/v1/employee/${id}`).then(res =>
+    fetch(`https://dummy.restapiexample.com/api/v1/employee/${id}`).then(res =>
       res.json()
     ),
     [id]
