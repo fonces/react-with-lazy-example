@@ -1,7 +1,2 @@
-## Usage
-
-- Setup
-`npm install`
-
-- Run
-`npm run start`
+## Example
+https://fonces.github.io/react-with-lazy-example/
